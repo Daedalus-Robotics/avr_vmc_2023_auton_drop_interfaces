@@ -1,4 +1,4 @@
 bool should_drop
 ---
-int32 apriltag_id
 ---
+int32 apriltag_id
